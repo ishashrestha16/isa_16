@@ -22,5 +22,5 @@ GM: A person managing a Lasers and Feelings session.
 # Requirements
 Requirements are written here as user stories and they are in priority order. 
 
--As a plarer, I want to be able to throw a dice, because the result of the throw determines if i succeed or not in whatever i am trying to do.
--As a GM, I want to be able to use the software
+- As a plarer, I want to be able to throw a dice, because the result of the throw determines if i succeed or not in whatever i am trying to do.
+- As a GM, I want to be able to use the software
