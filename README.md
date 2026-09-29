@@ -37,4 +37,7 @@ Requirements are written here as user stories and they are in priority order and
 
 - As a GM, I want to be able to throw a dice, so I can create a random adventure.
 
-## Spri
+## Sprint 1 backlog
+- As a player, I want to to be able to choose a style and role for my character, so I can remember them.
+- As a GM, I want to be able to use the software
+- As a GM, I want to be able to throw a dice, so I can create a random adventure.
