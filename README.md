@@ -22,27 +22,10 @@ GM: A person managing a Lasers and Feelings session.
 
 # Requirements
 Requirements are written here as user stories and they are in priority order and they are in sprint backlogs and in product backlogs.
-
-### Not ordered or require elaboration
- 
 - As a player, I want to be able to set my number, so I can compare it with the result of my dice throw.
  
 - As a player, I want to to be able to choose a style and role for my character, so I can remember them.
  
--  As a player, I want the software to save my information (number, name, style and role), so I can use them in multiple playing sessions.
- 
-- As a player , I want to be able to join an existing game .
- 
-- As a player , I want to be able to view their current score.
- 
-- As a GM, I want to be able to add or remove players .
-- As a  GM, I want to be able to set game duration.
-- As a GM, I want to be able to throw a dice, so I can create a random adventure.
- 
-## Sprint 1 backlog
- 
-- (Done) As a  GM, I want to be able to use the software in a web browser, because web browsers are easy to use .
-- (Not Started) As a player ,I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
- 
-- (Not Started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
+- As a player, I want to be able to see my character's information, so that I know my character's abilities and status during the game.
+- As a GM, I want to be able to access information about the spaceship, so that I can provide relevant information to the players during the game.
  
