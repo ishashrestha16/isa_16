@@ -18,10 +18,15 @@ but other support ,for example, related to character information
 
 # Dictionary
  
-GM: A person managing a Lasers and Feelings session.
+ GM: A person managing a Lasers and Feelings session.
+ Dice throw: Give a random number between 1 to 6.
 
 # Requirements
 Requirements are written here as user stories and they are in priority order and they are in sprint backlogs and in product backlogs.
+
+## Product
+### Ordered
+None.
 
 ### Not ordered or require elaboration
  
