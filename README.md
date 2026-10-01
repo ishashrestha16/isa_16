@@ -4,10 +4,7 @@
 # Background 
 Laser and Feelings is a quick-play roleplaying game. It based on the following premise: 
  
-"You are the crew of the interstellar scout ship Raptor. Your mission is to explore uncharted regions of
-space, deal with aliens both friendly and deadly, and defend the Consortium worlds against space dangers.
-Captain Darcy has been overcome by the strange psychic entity known as Something Else, leaving you to fend for
- yourselves while he recovers in a medical pod."
+> "You are the crew of the interstellar scout ship Raptor. Your mission is to explore uncharted regions of space, deal with aliens both friendly and deadly, and defend the Consortium worlds against space dangers. Captain Darcy has been overcome by the strange psychic entity known as Something Else, leaving you to fend for yourselves while he recovers in a medical pod."
  
  
 # Introduction
@@ -53,4 +50,7 @@ None.
 - (In Progress) As a player, I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
  
 - (Not Started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
+
+# Data
+- Result: Result from the latest dice throw. The value is 1, 2, 3, 4, 5 or 6.
  
