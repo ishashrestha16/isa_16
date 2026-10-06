@@ -52,7 +52,11 @@ None.
 ## Sprint 2 backlog
  
 - (Not Started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
+- (Not started) As a player,  I want to  be able to choose a style and role for ,y character, so i can remember them.
 
 # Data
 - Result: Result from the latest dice throw. The value is 1, 2, 3, 4, 5 or 6.
+- Character name: Cool space name such as Perman.
+- Character style: One of the Alien, Andriod, Dangerous, Heroic, Hot-Shot, Intrepid or Savvy.
+- Character role: One of the Doctor, Envoy, Engineer, Explorer, Pilot, Scientist or Solider.
  
